@@ -1,0 +1,16 @@
+<?php
+define("DB_HOST","localhost");
+define("DB_USER","ebizproi_kalasar");
+define("DB_PASS","x5UM@%T>S!d>");
+define("DB_NAME","ebizproi_kalasarajan");
+define("NUMBER_OF_PRODUCTS_PER_PAGE",10);
+define("NUMBER_OF_PRODUCTS_PER_PAGE_FRONT",6);
+?>
+<?php
+/*define("DB_HOST","localhost");
+define("DB_USER","root");
+define("DB_PASS","");
+define("DB_NAME","kalasarjan");
+define("NUMBER_OF_PRODUCTS_PER_PAGE",2);
+define("NUMBER_OF_PRODUCTS_PER_PAGE_FRONT",2);*/
+?>
